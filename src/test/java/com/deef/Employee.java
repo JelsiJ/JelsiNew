@@ -22,7 +22,10 @@ public static void main(String[] args) {
         	System.out.println(entry.getKey());
 			System.out.println(entry.getValue().getEmpId());
 			System.out.println(entry.getValue().getEmpName());
-			sysoutgit
+
+
+			System.out.println(10);
+
 		}
 	
 	
